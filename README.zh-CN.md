@@ -16,7 +16,7 @@
 <br/>
 
 <p align="center">
-  <img src="docs/assets/hero.png" alt="AI Coord 截图" width="800">
+  <img src="docs/assets/hero-v2.png" alt="AI Coord 截图" width="800">
 </p>
 
 <br/>
