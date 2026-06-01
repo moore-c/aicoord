@@ -55,8 +55,8 @@ You run Claude Code or Codex on your local machine. But what if you step away? W
 |-----------|------|--------|
 | [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | CLI Agent | ✅ Supported |
 | [Codex CLI](https://github.com/openai/codex) | CLI Agent | ✅ Supported |
-| [Hermes](https://github.com/NousResearch/Hermes) | WebSocket Agent | ✅ Supported |
-| OpenClaw | WebSocket Agent | ✅ Supported |
+| [Hermes](https://github.com/NousResearch/hermes-agent) | AI Agent | ✅ Supported |
+| [OpenClaw](https://github.com/openclaw/openclaw) | Agent Framework | ✅ Supported |
 
 ## Quick Start
 
@@ -140,8 +140,8 @@ Yes, currently free during early access.
 ## Links
 
 - 🌐 [Website](https://aicoord.cn)
-- 🐛 [Report a Bug](https://github.com/aicoord/aicoord/issues/new?template=bug_report.md)
-- 💡 [Request a Feature](https://github.com/aicoord/aicoord/issues/new?template=feature_request.md)
+- 🐛 [Report a Bug](https://github.com/moore-c/aicoord/issues/new?template=bug_report.md)
+- 💡 [Request a Feature](https://github.com/moore-c/aicoord/issues/new?template=feature_request.md)
 
 ## License
 

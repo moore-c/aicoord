@@ -55,8 +55,8 @@
 |------|------|------|
 | [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | CLI Agent | ✅ 支持 |
 | [Codex CLI](https://github.com/openai/codex) | CLI Agent | ✅ 支持 |
-| [Hermes](https://github.com/NousResearch/Hermes) | WebSocket Agent | ✅ 支持 |
-| OpenClaw | WebSocket Agent | ✅ 支持 |
+| [Hermes](https://github.com/NousResearch/hermes-agent) | AI Agent | ✅ 支持 |
+| [OpenClaw](https://github.com/openclaw/openclaw) | Agent 框架 | ✅ 支持 |
 
 ## 快速开始
 
@@ -140,8 +140,8 @@ curl -fsSL https://aicoord.cn/install.sh | sh
 ## 链接
 
 - 🌐 [官网](https://aicoord.cn)
-- 🐛 [反馈问题](https://github.com/aicoord/aicoord/issues/new?template=bug_report.md)
-- 💡 [功能建议](https://github.com/aicoord/aicoord/issues/new?template=feature_request.md)
+- 🐛 [反馈问题](https://github.com/moore-c/aicoord/issues/new?template=bug_report.md)
+- 💡 [功能建议](https://github.com/moore-c/aicoord/issues/new?template=feature_request.md)
 
 ## 许可证
 
